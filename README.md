@@ -1,2 +1,2 @@
-PIC UPV MASTER /n
+PIC UPV MASTER
 This is the example of a repo
